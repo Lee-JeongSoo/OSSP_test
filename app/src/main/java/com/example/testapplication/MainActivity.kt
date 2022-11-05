@@ -17,7 +17,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        val intent = Intent(this, LoginActivity::class.java)
+        val intent = Intent(this, FistActivity::class.java)
         startActivity(intent)
         finish()
 
