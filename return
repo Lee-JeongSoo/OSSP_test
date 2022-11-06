@@ -1,0 +1,50 @@
+* [33mcommit f515a45a56131cf649f968478cf474277fa613cc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: Lee-JeongSoo <chaola3503@gmail.com>
+[31m|[m Date:   Sun Nov 6 11:59:49 2022 +0900
+[31m|[m 
+[31m|[m     임시 커밋. 브랜치 분기 확인을 위한 테스트
+[31m|[m 
+* [33mcommit c813e298665e6aaa5bbfcee7830e35ab320e3f9d[m
+[31m|[m Author: Lee-JeongSoo <chaola3503@gmail.com>
+[31m|[m Date:   Sun Nov 6 11:53:31 2022 +0900
+[31m|[m 
+[31m|[m     임시 커밋. 브랜치 분기 확인을 위한 테스트
+[31m|[m   
+[31m|[m * [33mcommit 4c5a0e1f50d0771d460c1b8668794f0339f6a316[m[33m ([m[1;32mtestbrach_js[m[33m)[m
+[31m|[m [32m|[m Author: Lee-JeongSoo <chaola3503@gmail.com>
+[31m|[m [32m|[m Date:   Sun Nov 6 11:57:54 2022 +0900
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     임시 커밋. 브랜치 분기 확인을 위한 테스트
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 81a0bbf075859e4ca1209267589e506f8076b8e6[m[33m ([m[1;32mdevelop[m[33m)[m
+[31m|[m[31m/[m  Author: Lee-JeongSoo <chaola3503@gmail.com>
+[31m|[m   Date:   Sun Nov 6 11:45:11 2022 +0900
+[31m|[m   
+[31m|[m       임시 커밋. 브랜치 분기 확인을 위한 테스트
+[31m|[m   
+[31m|[m * [33mcommit 61228e77d7f08e9a82ab0b938449ad908739ad7e[m[33m ([m[1;31morigin/feature_login_[m[33m, [m[1;32mfeature_login_[m[33m)[m
+[31m|[m[31m/[m  Author: Lee-JeongSoo <chaola3503@gmail.com>
+[31m|[m   Date:   Sun Nov 6 00:20:11 2022 +0900
+[31m|[m   
+[31m|[m       type : feat
+[31m|[m       
+[31m|[m       discription:
+[31m|[m       1. 로그인화면과 회원가입화면을 수정하였다.
+[31m|[m       2. 앞의 두개화면을 진입하는 새로운 인트로화면을 생성하였다.
+[31m|[m       3. 새로 사용할 color와 logo, 도형을 drawble에 추가하였다.
+[31m|[m       4. 로그인후 임시로 진입할 expage를 생성하였다.
+[31m|[m       
+[31m|[m       notice:
+[31m|[m       1. firebase를 임의로 @이정수 계정으로 연결을 시도했으나 오류가 발생하여 일단 아이디와 비밀번호 입력후 로그인하면 사용자 인증 없이 바로 화면이 넘어가도록 함. 추후에 수정할 예정
+[31m|[m 
+* [33mcommit 6e2f111f3d18e4fb55429dee35fa3bb2fd456e0f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[33m|[m Author: seokmin <leesm990708@gmail.com>
+[33m|[m Date:   Sun Oct 30 00:32:55 2022 +0900
+[33m|[m 
+[33m|[m     login and sigup without firebase
+[33m|[m 
+* [33mcommit e664f8bbe1aab391ab78b4965414e5196db5fd4c[m
+  Author: 이석민 <seokmin@iseogmin-ui-MacBookPro.local>
+  Date:   Sat Oct 29 13:52:19 2022 +0900
+  
+      Initial commit
